@@ -23,8 +23,9 @@ Dalam proyek ini, saya membangun **CI/CD Pipeline** menggunakan **Jenkins**, yan
 - React App / Java / Python (sesuai proyek yang digunakan)
 
 ## 📂 Berkas Pengerjaan
-- **Jenkinsfile** (Konfigurasi Pipeline)
-- **Dockerfile** (Konfigurasi Docker untuk Deployment)
-- **prometheus.yml** (Konfigurasi Prometheus)
-- **grafana-dashboard.json** (Konfigurasi Dashboard Grafana)
-
+- **Tampilan halaman “Jenkins Dashboard”**
+- **Tampilan halaman “Detail” dari proses eksekusi pipeline yang terbaru di Blue Ocean**
+- **Tampilan bagian “Prometheus” pada halaman Configure Systems di Jenkins** 
+- **Tampilan menu “Metric Explorer” pada halaman Prometheus**
+- **Tampilan “Grafana dashboard” yang Anda buat untuk Jenkins metrics**
+- **File log.txt yang di unduh dari halaman Artifacts pada antarmuka Blue Ocean**
